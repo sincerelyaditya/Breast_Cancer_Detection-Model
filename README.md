@@ -1,13 +1,5 @@
 # Product Wiki
 
-All things related to product - processes, best practices, setup guides, and more!
-
-## Guides & Processes
-
----
-
-**BREAST CANCER DETECTION USING CLASSIFICATION ALGORITHMS**
-
 **ADITYA SHRIVASTAVA**
 
 **207103**
@@ -15,6 +7,14 @@ All things related to product - processes, best practices, setup guides, and mor
 **CSE 2ND YEAR**
 
 **NITW**
+
+
+## Guides & Processes
+
+---
+
+**BREAST CANCER DETECTION USING CLASSIFICATION ALGORITHMS**
+
 
 **Machine Learning Classification Algorithms Used**
 
